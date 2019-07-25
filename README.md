@@ -10,13 +10,7 @@ To clean, explore, and model this dataset with a multivariate linear regression 
 King County House Sales dataset. The dataset can be found in the file `"kc_house_data.csv"`, in this repo. The description of the column names can be found in the 'column_names.md' file in this repository. 
 
 ## Deliverables
-1. **GitHub Repo:** 
-Alex Shropshire: 
-https://github.com/as6140/dsc-1-final-project-seattle-ds-career-040119
-Kevin Velasco: 
-https://github.com/kevintheduu/dsc-1-final-project-seattle-ds-career-040119
-
-Final Clean Project Code Notebook: final_notebook_mod1.ipynb
+Clean Notebook: final_notebook_mod1.ipynb
 
 Project Instructions Detailed : index.ipynb
 
@@ -34,14 +28,11 @@ last_test.csv
 seattle_zips.csv
 
 
-
 2. **Blog Post:** 
-Alex Shropshire: 
 https://medium.com/@as6140/transforming-categorical-data-for-usability-in-machine-learning-predictions-90459c3fc967
-Kevin Velasco: 
-https://medium.com/@krexvelasco/transforming-categorical-information-into-usable-measures-in-a-machine-learning-model-e2910bbb3fc7
+
 
 3. **Presentation PDF** 
-https://github.com/kevintheduu/dsc-1-final-project-seattle-ds-career-040119/blob/master/velasco_shropshire_mod1_presentation.pdf
+https://github.com/as6140/kingcountyWA_home_price_predictor/blob/master/velasco_shropshire_mod1_presentation.pdf
 
 
