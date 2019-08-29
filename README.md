@@ -1,6 +1,6 @@
 
 # King County, WA Home Price Predictor
-## Kevin Velasco & Alex Shropshire
+## Alex Shropshire & Kevin Velasco
 
 ## Goal & Use Case
 To clean, explore, and model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible. This sort of model could be utilized as a predictor for Real Estate Agents, Investors, Technology Companies, Researchers, and other stakeholders to take advantage of opportunities to buy, sell, renovate, or analyze real estate features and their effect on market price.
